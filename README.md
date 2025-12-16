@@ -1,4 +1,4 @@
-# AI PPT Generator (Powered by Jimmy)
+# AI PPT Generator
 
 An intelligent presentation generator that transforms documents and links into professional slides. It leverages AI API for high-quality content analysis and image generation.
 
@@ -70,7 +70,7 @@ Therefore, we have conceived the idea of developing a more suitable AI PPT Gener
 
 ## Deployment
 
-This project is built with Vite and can be easily deployed to any static hosting service (Vercel, Netlify, GitHub Pages, etc.).
+This project is built with Vite and can be easily deployed to any static hosting service。
 
 ### Build for Production
 
@@ -80,11 +80,6 @@ This project is built with Vite and can be easily deployed to any static hosting
     ```
     This will generate a `dist` folder containing the static assets.
 
-### Deploy to Vercel (Recommended)
-
-1.  Install Vercel CLI: `npm i -g vercel`
-2.  Run `vercel` in the project root.
-3.  Follow the prompts to deploy.
 
 ### Deploy to Netlify
 
